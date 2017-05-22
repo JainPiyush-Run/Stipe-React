@@ -1,0 +1,17 @@
+.container{
+	text-align: center;
+}
+img{
+	height: 100%;
+	width: 100%;
+}
+li{
+	font-size: 20px;
+}
+ul{
+	margin-bottom: 10px;
+}
+
+body{
+	background-color: steelblue;
+}
